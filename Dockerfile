@@ -1,4 +1,4 @@
-FROM python:3.7-alphine
+FROM python:3.11.1
 
 COPY hello_there.py /
 
